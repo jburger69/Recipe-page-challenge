@@ -62,3 +62,17 @@ img {
     font-size: 20px;
     line-height: 100%;
 }
+
+.unordered-prep-list {
+    height: 88px;
+    line-height: 8px;
+}
+
+.unordered-prep-item {
+    height: 24px;
+    padding-left: 8px;
+}
+
+strong {
+    color: hsl(30, 10%, 34%);
+}

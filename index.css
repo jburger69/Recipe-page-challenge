@@ -88,3 +88,15 @@ strong {
     font-size: 28px;
     color: hsl(14, 45%, 36%);
 }
+
+.recipe-ingredient-list {
+    height: 152px;
+    line-height: 8px;
+}
+
+.recipe-ingredient-list-items {
+    height: 24px;
+    padding-left: 8px;
+    line-height: 16px;
+    color: hsl(30, 10%, 34%);
+}

@@ -76,3 +76,15 @@ img {
 strong {
     color: hsl(30, 10%, 34%);
 }
+
+.recipe-ingredients {
+    height: 204px;
+    line-height: 24px;
+}
+
+.recipe-ingredient-title {
+    font-family: "Young Serif";
+    font-weight: normal;
+    font-size: 28px;
+    color: hsl(14, 45%, 36%);
+}

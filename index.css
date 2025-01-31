@@ -104,3 +104,20 @@ strong {
 .hr-line {
     color: hsl(30, 18%, 87%);
 }
+
+.recipe-instructions {
+    height: 332px;
+    line-height: 24px;
+}
+
+.recipe-instructions-list {
+    height: 280px;
+    line-height: 8px;
+}
+
+.recipe-instructions-list-item {
+    width: 616px;
+    height: 48px;
+    padding: 8px;
+    line-height: 16px;
+}

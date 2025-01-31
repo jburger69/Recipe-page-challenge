@@ -153,3 +153,16 @@ strong {
     line-height: 150%;
     color: hsl(30, 10%, 34%);
 }
+
+.recipe-table {
+    min-height: 168px;
+    min-width: 656px;
+    line-height: 12px;
+    border-spacing: 16x;
+}
+
+.recipe-table-item-row {
+    min-height: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+}

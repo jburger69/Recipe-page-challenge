@@ -20,6 +20,12 @@ img {
     border-radius: 12px;
 }
 
+.recipe-card-content {
+    width: 656px;
+    height: 112px;
+    line-height: 24px;
+}
+
 .recipe-title {
     width: 656px;
     height: 40px;
@@ -27,4 +33,15 @@ img {
     line-height: 100%;
     font-family: "Young Serif";
     font-weight: normal;
+    color: hsl(24, 5%, 18%);
+}
+
+.recipe-description {
+    width: 656px;
+    height: 48px;
+    font-family: "Outfit";
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    color: hsl(30, 10%, 34%);
 }

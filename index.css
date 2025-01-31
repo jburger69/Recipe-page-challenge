@@ -1,5 +1,6 @@
 body {
     background-color: hsl(30, 54%, 90%);
+    height: 100%;
 }
 
 .recipe-container {
@@ -109,6 +110,14 @@ strong {
 .recipe-instructions {
     height: 332px;
     line-height: 24px;
+}
+
+.recipe-instructions-title {
+    height: 28px;
+    font-family: "Young Serif";
+    font-weight: normal;
+    font-size: 28px;
+    color: hsl(14, 45%, 36%);
 }
 
 .recipe-instructions-list {

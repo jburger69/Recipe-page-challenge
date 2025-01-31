@@ -22,7 +22,6 @@ img {
 
 .recipe-card-content {
     width: 656px;
-    height: 112px;
     line-height: 24px;
 }
 
@@ -44,4 +43,12 @@ img {
     font-size: 16px;
     line-height: 150%;
     color: hsl(30, 10%, 34%);
+}
+
+.recipe-prep-time {
+    height: 172px;
+    padding: 24px;
+    line-height: 16px;
+    background-color: hsl(332, 51%, 32%);
+    border-radius: 12px;
 }
